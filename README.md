@@ -1,4 +1,4 @@
-# Calculadora Simples
+# Calculadora
 
 Este é um projeto de uma calculadora simples.
 
